@@ -9,6 +9,19 @@ header{
     width: 100%;
     height: 80px;
     padding-left: 20px;
+    background-color: white;
+}
+body{
+    background-color: rgb(241, 241, 241);
+}
+h2{
+    margin: 30px 0 15px 0;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin-bottom: 30px;
 }
 
 .title{
@@ -19,6 +32,80 @@ header{
     line-height: 80px; 
     
 }
+.main-content{
+    margin: 50px 150px 0px 150px ;
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.buttons{
+    display: inline-block;
+    padding: 7px 15px 7px 15px;
+    border-radius: 7px;
+    margin: 20px 0;
+    
+    
+}
+.button1{
+    background-color: deepskyblue;    
+    color: white;
+}
+.button2{
+    background-color: white;    
+    color: lightgray;
+    border: 1px solid lightgray;
+}   
+.check{
+    color: springgreen;
+    border-radius: 50%;
+    border: 1px solid springgreen;
+    padding: 3px;
+    margin-right: 10px;
+    
+}
+.cross{
+    color: red;
+    border-radius: 50%;
+    border: 1px solid red;
+    padding: 3px;
+    margin-right: 10px;
+}
+.box{
+    font-size: 10px;
+    border-radius: 15px;
+    color: white;
+    padding: 7px 15px;
+}
+.editorial{
+    background-color: deepskyblue;
+}
+.goals{
+    background-color: rebeccapurple;
+}
+.recruiting{
+    background-color:springgreen;
+}
+.mobile{
+    background-color: orange;
+}
+.website{
+    background-color: orchid;
+}
+.sales{
+    background-color: palegreen;
+}
 #logo{
     vertical-align:middle;  
 }
+#row{
+    height: 2px;
+    background-color: rgb(241, 241, 241);
+    border: none;
+    padding: 0;
+    
+}
+
