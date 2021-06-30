@@ -30,16 +30,18 @@ li{
     font-size: 40px;
     vertical-align:middle; 
     line-height: 80px; 
+ 
     
 }
 .main-content{
-    margin: 0px 150px 0px 150px ;
+    margin: 0px 150px;
     background-color: white;
     border-radius: 5px;
     padding-left: 50px;
     padding-bottom: 50px;
     font-family: 'Big Shoulders Stencil Display', cursive;
     font-family: 'Roboto', sans-serif;
+    
     
 }
 .border{
@@ -109,5 +111,6 @@ li{
 
 #logo{
     vertical-align:middle;  
+   
 }
 
